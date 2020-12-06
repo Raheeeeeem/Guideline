@@ -9,7 +9,7 @@ $ ssh $ ssh-keygen -t rsa -b 4096 -C "mail adress"
 
 ### 4. It will create a .ssh folder in C:\user\ and there are two keys data in this folder
 
-#### id_rsa is a privity key \
+#### id_rsa is a privity key 
 #### id_rsa.pub is a public key
 
 ### 5. To GitHub site and go to setting page 
